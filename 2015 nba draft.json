@@ -1,0 +1,544 @@
+{
+ "selection1": [
+  {
+   "name": "Karl-Anthony Towns",
+   "position": "C",
+   "nationality": "Dominican Republic[n 2]",
+   "team": "Minnesota Timberwolves",
+   "team_url": "https://en.wikipedia.org/wiki/Minnesota_Timberwolves",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "D'Angelo Russell",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Los Angeles Lakers",
+   "team_url": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+   "school": "Ohio State",
+   "school_url": "https://en.wikipedia.org/wiki/Ohio_State_Buckeyes_men%27s_basketball"
+  },
+  {
+   "name": "Jahlil Okafor",
+   "position": "C",
+   "nationality": "United States",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "Duke",
+   "school_url": "https://en.wikipedia.org/wiki/Duke_Blue_Devils_men%27s_basketball"
+  },
+  {
+   "name": "Kristaps Porziņģis",
+   "position": "PF/C",
+   "nationality": "Latvia",
+   "team": "New York Knicks",
+   "team_url": "https://en.wikipedia.org/wiki/New_York_Knicks",
+   "school": "Baloncesto Sevilla",
+   "school_url": "https://en.wikipedia.org/wiki/CB_Sevilla"
+  },
+  {
+   "name": "Mario Hezonja",
+   "position": "SG/SF",
+   "nationality": "Croatia",
+   "team": "Orlando Magic",
+   "team_url": "https://en.wikipedia.org/wiki/Orlando_Magic",
+   "school": "FC Barcelona",
+   "school_url": "https://en.wikipedia.org/wiki/FC_Barcelona_B%C3%A0squet"
+  },
+  {
+   "name": "Willie Cauley-Stein",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Sacramento Kings",
+   "team_url": "https://en.wikipedia.org/wiki/Sacramento_Kings",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Emmanuel Mudiay",
+   "position": "PG",
+   "nationality": "DR Congo[n 3]",
+   "team": "Denver Nuggets",
+   "team_url": "https://en.wikipedia.org/wiki/Denver_Nuggets",
+   "school": "Guangdong Southern Tigers",
+   "school_url": "https://en.wikipedia.org/wiki/Guangdong_Southern_Tigers"
+  },
+  {
+   "name": "Stanley Johnson",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Detroit Pistons",
+   "team_url": "https://en.wikipedia.org/wiki/Detroit_Pistons",
+   "school": "Arizona",
+   "school_url": "https://en.wikipedia.org/wiki/Arizona_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Frank Kaminsky",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Charlotte Hornets",
+   "team_url": "https://en.wikipedia.org/wiki/Charlotte_Hornets",
+   "school": "Wisconsin",
+   "school_url": "https://en.wikipedia.org/wiki/Wisconsin_Badgers_men%27s_basketball"
+  },
+  {
+   "name": "Justise Winslow",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Miami Heat",
+   "team_url": "https://en.wikipedia.org/wiki/Miami_Heat",
+   "school": "Duke",
+   "school_url": "https://en.wikipedia.org/wiki/Duke_Blue_Devils_men%27s_basketball"
+  },
+  {
+   "name": "Myles Turner",
+   "position": "C",
+   "nationality": "United States",
+   "team": "Indiana Pacers",
+   "team_url": "https://en.wikipedia.org/wiki/Indiana_Pacers",
+   "school": "Texas",
+   "school_url": "https://en.wikipedia.org/wiki/Texas_Longhorns_men%27s_basketball"
+  },
+  {
+   "name": "Trey Lyles",
+   "position": "PF",
+   "nationality": "Canada",
+   "team": "Utah Jazz",
+   "team_url": "https://en.wikipedia.org/wiki/Utah_Jazz",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Devin Booker",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Phoenix Suns",
+   "team_url": "https://en.wikipedia.org/wiki/Phoenix_Suns",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Cameron Payne",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Oklahoma City Thunder",
+   "team_url": "https://en.wikipedia.org/wiki/Oklahoma_City_Thunder",
+   "school": "Murray State",
+   "school_url": "https://en.wikipedia.org/wiki/Murray_State_Racers_men%27s_basketball"
+  },
+  {
+   "name": "Kelly Oubre Jr.",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Atlanta Hawks",
+   "team_url": "https://en.wikipedia.org/wiki/Atlanta_Hawks",
+   "school": "Kansas",
+   "school_url": "https://en.wikipedia.org/wiki/Kansas_Jayhawks_men%27s_basketball"
+  },
+  {
+   "name": "Terry Rozier",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Boston Celtics",
+   "team_url": "https://en.wikipedia.org/wiki/Boston_Celtics",
+   "school": "Louisville",
+   "school_url": "https://en.wikipedia.org/wiki/Louisville_Cardinals_men%27s_basketball"
+  },
+  {
+   "name": "Rashad Vaughn",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Milwaukee Bucks",
+   "team_url": "https://en.wikipedia.org/wiki/Milwaukee_Bucks",
+   "school": "UNLV",
+   "school_url": "https://en.wikipedia.org/wiki/UNLV_Runnin%27_Rebels_basketball"
+  },
+  {
+   "name": "Sam Dekker",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Houston Rockets",
+   "team_url": "https://en.wikipedia.org/wiki/Houston_Rockets",
+   "school": "Wisconsin",
+   "school_url": "https://en.wikipedia.org/wiki/Wisconsin_Badgers_men%27s_basketball"
+  },
+  {
+   "name": "Jerian Grant",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Washington Wizards",
+   "team_url": "https://en.wikipedia.org/wiki/Washington_Wizards",
+   "school": "Notre Dame",
+   "school_url": "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_men%27s_basketball"
+  },
+  {
+   "name": "Delon Wright",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Toronto Raptors",
+   "team_url": "https://en.wikipedia.org/wiki/Toronto_Raptors",
+   "school": "Utah",
+   "school_url": "https://en.wikipedia.org/wiki/Utah_Utes_men%27s_basketball"
+  },
+  {
+   "name": "Justin Anderson",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Dallas Mavericks",
+   "team_url": "https://en.wikipedia.org/wiki/Dallas_Mavericks",
+   "school": "Virginia",
+   "school_url": "https://en.wikipedia.org/wiki/Virginia_Cavaliers_men%27s_basketball"
+  },
+  {
+   "name": "Bobby Portis",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Chicago Bulls",
+   "team_url": "https://en.wikipedia.org/wiki/Chicago_Bulls",
+   "school": "Arkansas",
+   "school_url": "https://en.wikipedia.org/wiki/Arkansas_Razorbacks_men%27s_basketball"
+  },
+  {
+   "name": "Rondae Hollis-Jefferson",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Portland Trail Blazers",
+   "team_url": "https://en.wikipedia.org/wiki/Portland_Trail_Blazers",
+   "school": "Arizona",
+   "school_url": "https://en.wikipedia.org/wiki/Arizona_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Tyus Jones",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Cleveland Cavaliers",
+   "team_url": "https://en.wikipedia.org/wiki/Cleveland_Cavaliers",
+   "school": "Duke",
+   "school_url": "https://en.wikipedia.org/wiki/Duke_Blue_Devils_men%27s_basketball"
+  },
+  {
+   "name": "Jarell Martin",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Memphis Grizzlies",
+   "team_url": "https://en.wikipedia.org/wiki/Memphis_Grizzlies",
+   "school": "LSU",
+   "school_url": "https://en.wikipedia.org/wiki/LSU_Tigers_basketball"
+  },
+  {
+   "name": "Nikola Milutinov",
+   "position": "C",
+   "nationality": "Serbia",
+   "team": "San Antonio Spurs",
+   "team_url": "https://en.wikipedia.org/wiki/San_Antonio_Spurs",
+   "school": "Partizan Belgrade",
+   "school_url": "https://en.wikipedia.org/wiki/KK_Partizan"
+  },
+  {
+   "name": "Larry Nance Jr.",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Los Angeles Lakers",
+   "team_url": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+   "school": "Wyoming",
+   "school_url": "https://en.wikipedia.org/wiki/Wyoming_Cowboys_basketball"
+  },
+  {
+   "name": "R. J. Hunter",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Boston Celtics",
+   "team_url": "https://en.wikipedia.org/wiki/Boston_Celtics",
+   "school": "Georgia State",
+   "school_url": "https://en.wikipedia.org/wiki/Georgia_State_Panthers_men%27s_basketball"
+  },
+  {
+   "name": "Chris McCullough",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Brooklyn Nets",
+   "team_url": "https://en.wikipedia.org/wiki/Brooklyn_Nets",
+   "school": "Syracuse",
+   "school_url": "https://en.wikipedia.org/wiki/Syracuse_Orange_men%27s_basketball"
+  },
+  {
+   "name": "Kevon Looney",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Golden State Warriors",
+   "team_url": "https://en.wikipedia.org/wiki/Golden_State_Warriors",
+   "school": "UCLA",
+   "school_url": "https://en.wikipedia.org/wiki/UCLA_Bruins_men%27s_basketball"
+  },
+  {
+   "name": "Cedi Osman",
+   "position": "SG/SF",
+   "nationality": "Turkey[n 4]",
+   "team": "Minnesota Timberwolves",
+   "team_url": "https://en.wikipedia.org/wiki/Minnesota_Timberwolves",
+   "school": "Anadolu Efes",
+   "school_url": "https://en.wikipedia.org/wiki/Anadolu_Efes_S.K."
+  },
+  {
+   "name": "Montrezl Harrell",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Houston Rockets",
+   "team_url": "https://en.wikipedia.org/wiki/Houston_Rockets",
+   "school": "Louisville",
+   "school_url": "https://en.wikipedia.org/wiki/Louisville_Cardinals_men%27s_basketball"
+  },
+  {
+   "name": "Jordan Mickey",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Boston Celtics",
+   "team_url": "https://en.wikipedia.org/wiki/Boston_Celtics",
+   "school": "LSU",
+   "school_url": "https://en.wikipedia.org/wiki/LSU_Tigers_basketball"
+  },
+  {
+   "name": "Anthony Brown",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Los Angeles Lakers",
+   "team_url": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+   "school": "Stanford",
+   "school_url": "https://en.wikipedia.org/wiki/Stanford_Cardinal_men%27s_basketball"
+  },
+  {
+   "name": "Willy Hernangómez",
+   "position": "C",
+   "nationality": "Spain",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "Baloncesto Sevilla",
+   "school_url": "https://en.wikipedia.org/wiki/CB_Sevilla"
+  },
+  {
+   "name": "Rakeem Christmas",
+   "position": "PF/C",
+   "nationality": "United States",
+   "team": "Minnesota Timberwolves",
+   "team_url": "https://en.wikipedia.org/wiki/Minnesota_Timberwolves",
+   "school": "Syracuse",
+   "school_url": "https://en.wikipedia.org/wiki/Syracuse_Orange_men%27s_basketball"
+  },
+  {
+   "name": "Richaun Holmes",
+   "position": "SF/PF",
+   "nationality": "United States",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "Bowling Green",
+   "school_url": "https://en.wikipedia.org/wiki/Bowling_Green_Falcons_men%27s_basketball"
+  },
+  {
+   "name": "Darrun Hilliard",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Detroit Pistons",
+   "team_url": "https://en.wikipedia.org/wiki/Detroit_Pistons",
+   "school": "Villanova",
+   "school_url": "https://en.wikipedia.org/wiki/Villanova_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Juan Pablo Vaulet",
+   "position": "SF",
+   "nationality": "Argentina",
+   "team": "Charlotte Hornets",
+   "team_url": "https://en.wikipedia.org/wiki/Charlotte_Hornets",
+   "school": "Estudiantes de Bahía",
+   "school_url": "https://en.wikipedia.org/wiki/Estudiantes_de_Bah%C3%ADa_Blanca"
+  },
+  {
+   "name": "Josh Richardson",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Miami Heat",
+   "team_url": "https://en.wikipedia.org/wiki/Miami_Heat",
+   "school": "Tennessee",
+   "school_url": "https://en.wikipedia.org/wiki/Tennessee_Volunteers_basketball"
+  },
+  {
+   "name": "Pat Connaughton",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Brooklyn Nets",
+   "team_url": "https://en.wikipedia.org/wiki/Brooklyn_Nets",
+   "school": "Notre Dame",
+   "school_url": "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_men%27s_basketball"
+  },
+  {
+   "name": "Olivier Hanlan",
+   "position": "PG",
+   "nationality": "Canada",
+   "team": "Utah Jazz",
+   "team_url": "https://en.wikipedia.org/wiki/Utah_Jazz",
+   "school": "Boston College",
+   "school_url": "https://en.wikipedia.org/wiki/Boston_College_Eagles_men%27s_basketball"
+  },
+  {
+   "name": "Joseph Young",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Indiana Pacers",
+   "team_url": "https://en.wikipedia.org/wiki/Indiana_Pacers",
+   "school": "Oregon",
+   "school_url": "https://en.wikipedia.org/wiki/Oregon_Ducks_men%27s_basketball"
+  },
+  {
+   "name": "Andrew Harrison",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Phoenix Suns",
+   "team_url": "https://en.wikipedia.org/wiki/Phoenix_Suns",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Marcus Thornton",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Boston Celtics",
+   "team_url": "https://en.wikipedia.org/wiki/Boston_Celtics",
+   "school": "William & Mary",
+   "school_url": "https://en.wikipedia.org/wiki/William_%26_Mary_Tribe_men%27s_basketball"
+  },
+  {
+   "name": "Norman Powell",
+   "position": "SG",
+   "nationality": "United States",
+   "team": "Milwaukee Bucks",
+   "team_url": "https://en.wikipedia.org/wiki/Milwaukee_Bucks",
+   "school": "UCLA",
+   "school_url": "https://en.wikipedia.org/wiki/UCLA_Bruins_men%27s_basketball"
+  },
+  {
+   "name": "Artūras Gudaitis",
+   "position": "C",
+   "nationality": "Lithuania",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "Žalgiris Kaunas",
+   "school_url": "https://en.wikipedia.org/wiki/BC_%C5%BDalgiris"
+  },
+  {
+   "name": "Dakari Johnson",
+   "position": "C",
+   "nationality": "United States",
+   "team": "Oklahoma City Thunder",
+   "team_url": "https://en.wikipedia.org/wiki/Oklahoma_City_Thunder",
+   "school": "Kentucky",
+   "school_url": "https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball"
+  },
+  {
+   "name": "Aaron White",
+   "position": "PF",
+   "nationality": "United States",
+   "team": "Washington Wizards",
+   "team_url": "https://en.wikipedia.org/wiki/Washington_Wizards",
+   "school": "Iowa",
+   "school_url": "https://en.wikipedia.org/wiki/Iowa_Hawkeyes_men%27s_basketball"
+  },
+  {
+   "name": "Marcus Eriksson",
+   "position": "SG",
+   "nationality": "Sweden",
+   "team": "Atlanta Hawks",
+   "team_url": "https://en.wikipedia.org/wiki/Atlanta_Hawks",
+   "school": "FC Barcelona",
+   "school_url": "https://en.wikipedia.org/wiki/FC_Barcelona_B%C3%A0squet"
+  },
+  {
+   "name": "Tyler Harvey",
+   "position": "PG",
+   "nationality": "United States",
+   "team": "Orlando Magic",
+   "team_url": "https://en.wikipedia.org/wiki/Orlando_Magic",
+   "school": "Eastern Washington",
+   "school_url": "https://en.wikipedia.org/wiki/Eastern_Washington_Eagles_men%27s_basketball"
+  },
+  {
+   "name": "Satnam Singh Bhamara",
+   "position": "C",
+   "nationality": "India",
+   "team": "Dallas Mavericks",
+   "team_url": "https://en.wikipedia.org/wiki/Dallas_Mavericks",
+   "school": "IMG Academy",
+   "school_url": "https://en.wikipedia.org/wiki/IMG_Academies"
+  },
+  {
+   "name": "Sir'Dominic Pointer",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "Cleveland Cavaliers",
+   "team_url": "https://en.wikipedia.org/wiki/Cleveland_Cavaliers",
+   "school": "St. John's",
+   "school_url": "https://en.wikipedia.org/wiki/St._John%27s_Red_Storm_men%27s_basketball"
+  },
+  {
+   "name": "Dani Díez",
+   "position": "SF",
+   "nationality": "Spain",
+   "team": "Utah Jazz",
+   "team_url": "https://en.wikipedia.org/wiki/Utah_Jazz",
+   "school": "Gipuzkoa Basket",
+   "school_url": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n_Gipuzkoa_BC"
+  },
+  {
+   "name": "Cady Lalanne",
+   "position": "PF",
+   "nationality": "Haiti",
+   "team": "San Antonio Spurs",
+   "team_url": "https://en.wikipedia.org/wiki/San_Antonio_Spurs",
+   "school": "Massachusetts",
+   "school_url": "https://en.wikipedia.org/wiki/UMass_Minutemen_basketball"
+  },
+  {
+   "name": "Branden Dawson",
+   "position": "SF",
+   "nationality": "United States",
+   "team": "New Orleans Pelicans",
+   "team_url": "https://en.wikipedia.org/wiki/New_Orleans_Pelicans",
+   "school": "Michigan State",
+   "school_url": "https://en.wikipedia.org/wiki/Michigan_State_Spartans_men%27s_basketball"
+  },
+  {
+   "name": "Nikola Radičević",
+   "position": "PG",
+   "nationality": "Serbia",
+   "team": "Denver Nuggets",
+   "team_url": "https://en.wikipedia.org/wiki/Denver_Nuggets",
+   "school": "Baloncesto Sevilla",
+   "school_url": "https://en.wikipedia.org/wiki/CB_Sevilla"
+  },
+  {
+   "name": "J. P. Tokoto",
+   "position": "SG/SF",
+   "nationality": "United States",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "North Carolina",
+   "school_url": "https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men%27s_basketball"
+  },
+  {
+   "name": "Dimitrios Agravanis",
+   "position": "PF",
+   "nationality": "Greece",
+   "team": "Atlanta Hawks",
+   "team_url": "https://en.wikipedia.org/wiki/Atlanta_Hawks",
+   "school": "Olympiacos",
+   "school_url": "https://en.wikipedia.org/wiki/Olympiacos_B.C."
+  },
+  {
+   "name": "Luka Mitrović",
+   "position": "PF",
+   "nationality": "Serbia",
+   "team": "Philadelphia 76ers",
+   "team_url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+   "school": "Red Star Belgrade",
+   "school_url": "https://en.wikipedia.org/wiki/KK_Crvena_zvezda"
+  }
+ ]
+}
